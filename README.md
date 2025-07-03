@@ -9,14 +9,14 @@
 
 - **المعلومات الشخصية**: عند التسجيل، نقوم بجمع اسمك، بريدك الإلكتروني، وكلمة المرور لإنشاء وإدارة حسابك. يتيح لنا ذلك تخصيص اللعبة، مثل عرض "مرحبًا، [الاسم]" على الشاشة الرئيسية.  
 - **بيانات اللعبة**: نقوم بحفظ درجاتك ومستوى تقدمك لتتبع إنجازاتك والمستويات المفتوحة في الوضع الحر.  
-- **بيانات الإعلانات**: نستخدم Google AdMob لتقديم إعلانات مكافأة تتيح لك كسب نقاط إضافية.
+- **بيانات الإعلانات**: نستخدم Google AdMob لتقديم الإعلانات.
 
 ### 2. كيفية استخدام معلوماتك  
 نستخدم بياناتك للأغراض التالية:
 
 - **وظائف اللعبة**: لتمكين التسجيل، تسجيل الدخول، والوظائف الشخصية.  
 - **تتبع التقدم**: لحفظ واستعادة تقدم اللعبة، بما في ذلك المستويات المفتوحة والدرجات، عبر أجهزة مختلفة.  
-- **الإعلانات والمكافآت**: لعرض إعلانات المكافأة التي تمكنك من زيادة درجاتك مقابل مشاهدة الإعلانات.  
+- **الإعلانات والمكافآت**: لعرض الإعلانات.  
 - **إدارة الحساب**: يمكنك تعديل اسمك أو حذف حسابك في أي وقت.
 
 ### 3. تخزين البيانات والأمان  
@@ -41,7 +41,7 @@
 إذا كنت بحاجة إلى مساعدة إضافية، يمكنك أيضًا التواصل معنا عبر البريد الإلكتروني.
 
 ### 6. خصوصية الأطفال  
-تم تصميم لعبتنا للأطفال، الشباب، والبالغين. إذا كنت أحد الوالدين وتعتقد أن طفلك قدم بيانات شخصية بدون موافقتك، يرجى الاتصال بنا لإزالتها.
+تم تصميم لعبتنا للأطفال، الشباب، والبالغين. إذا كنت أحد الوالدين وتعتقد أن طفلك قدم بيانات شخصية بدون موافقتك، يرجى التواصل معنا لإزالتها.
 
 ### 7. تحديثات سياسة الخصوصية  
 قد نقوم بتحديث سياسة الخصوصية هذه لتعكس التغييرات في لعبتنا وممارسات البيانات. سيتم إخطارك بأي تحديثات من خلال صفحة سياسة الخصوصية داخل اللعبة، وكذلك على GitHub.
@@ -62,15 +62,15 @@ Welcome to Snakes Game! Your privacy is important to us. This Privacy Policy exp
 We collect the following types of data to improve game functionality and enhance your experience:
 
 - **Personal Information**: When registering, we collect your name, email, and password to create and manage your account. This allows us to personalize the game, such as displaying "Hello, [Name]" on the main screen.  
-- **Game Data**: We save your scores and progress to track achievements and open levels in free mode.  
-- **Advertisement Data**: We use Google AdMob to provide rewarded ads that allow you to earn extra points.
+- **Game Data**: We save your scores and progress to track achievements and open levels.  
+- **Advertisement Data**: We use Google AdMob for ads.
 
 ### 2. How We Use Your Information  
 We use your data for the following purposes:
 
 - **Game Functions**: To enable registration, login, and personalized functionality.  
 - **Progress Tracking**: To save and restore game progress, including opened levels and scores, across different devices.  
-- **Ads & Rewards**: To display rewarded ads that let you increase your score by watching ads.  
+- **Ads**: To display ads.  
 - **Account Management**: You can edit your name or delete your account at any time.
 
 ### 3. Data Storage and Security  
@@ -80,7 +80,7 @@ We store your data securely using Firebase, ensuring that your progress is saved
 We use third-party services to improve the game experience:
 
 - **Firebase** (to store account information and scores). [Firebase Privacy Policy](https://firebase.google.com/support/privacy)  
-- **Google AdMob** (to display rewarded ads). [Google AdMob Privacy Policy](https://policies.google.com/privacy)
+- **Google AdMob** (to display ads). [Google AdMob Privacy Policy](https://policies.google.com/privacy)
 
 These services may collect certain data as part of their operations.
 
