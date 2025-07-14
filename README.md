@@ -9,14 +9,14 @@
 
 - **المعلومات الشخصية**: عند التسجيل، نقوم بجمع اسمك، بريدك الإلكتروني، وكلمة المرور لإنشاء وإدارة حسابك. يتيح لنا ذلك تخصيص اللعبة، مثل عرض "مرحبًا، [الاسم]" على الشاشة الرئيسية.  
 - **بيانات اللعبة**: نقوم بحفظ درجاتك ومستوى تقدمك لتتبع إنجازاتك والمستويات المفتوحة في الوضع الحر.  
-- **بيانات الإعلانات**: نستخدم Google AdMob لتقديم الإعلانات.
+- **بيانات الإعلانات**: نستخدم Unity Ads لتقديم الإعلانات.
 
 ### 2. كيفية استخدام معلوماتك  
 نستخدم بياناتك للأغراض التالية:
 
 - **وظائف اللعبة**: لتمكين التسجيل، تسجيل الدخول، والوظائف الشخصية.  
 - **تتبع التقدم**: لحفظ واستعادة تقدم اللعبة، بما في ذلك المستويات المفتوحة والدرجات، عبر أجهزة مختلفة.  
-- **الإعلانات والمكافآت**: لعرض الإعلانات.  
+- **الإعلانات **: لعرض الإعلانات بناء علي اهتماماتك.  
 - **إدارة الحساب**: يمكنك تعديل اسمك أو حذف حسابك في أي وقت.
 
 ### 3. تخزين البيانات والأمان  
@@ -26,7 +26,7 @@
 نستخدم خدمات طرف ثالث لتحسين تجربة اللعبة:
 
 - **Firebase** (لتخزين معلومات الحساب والدرجات). [سياسة خصوصية Firebase](https://firebase.google.com/support/privacy)  
-- **Google AdMob** (لعرض الإعلانات المكافأة). [سياسة خصوصية Google AdMob](https://policies.google.com/privacy)
+- **Unity Ads** (لعرض الإعلانات ). [سياسة خصوصية Unity Ads](https://unity.com/legal/privacy-policy)
 
 قد تجمع هذه الخدمات بيانات معينة كجزء من عملياتها.
 
@@ -44,7 +44,7 @@
 تم تصميم لعبتنا للأطفال، الشباب، والبالغين. إذا كنت أحد الوالدين وتعتقد أن طفلك قدم بيانات شخصية بدون موافقتك، يرجى التواصل معنا لإزالتها.
 
 ### 7. تحديثات سياسة الخصوصية  
-قد نقوم بتحديث سياسة الخصوصية هذه لتعكس التغييرات في لعبتنا وممارسات البيانات. سيتم إخطارك بأي تحديثات من خلال صفحة سياسة الخصوصية داخل اللعبة، وكذلك على GitHub.
+قد نقوم بتحديث سياسة الخصوصية هذه لتعكس التغييرات في لعبتنا وممارسات البيانات. سيتم إخطارك بأي تحديثات من خلال صفحة سياسة الخصوصية داخل اللعبة.
 
 ### 8. تواصل معنا  
 إذا كانت لديك أي أسئلة أو طلبات بخصوص بياناتك، يمكنك الاتصال بنا عبر:  
@@ -63,14 +63,14 @@ We collect the following types of data to improve game functionality and enhance
 
 - **Personal Information**: When registering, we collect your name, email, and password to create and manage your account. This allows us to personalize the game, such as displaying "Hello, [Name]" on the main screen.  
 - **Game Data**: We save your scores and progress to track achievements and open levels.  
-- **Advertisement Data**: We use Google AdMob for ads.
+- **Advertisement Data**: We use Unity Ads.
 
 ### 2. How We Use Your Information  
 We use your data for the following purposes:
 
 - **Game Functions**: To enable registration, login, and personalized functionality.  
 - **Progress Tracking**: To save and restore game progress, including opened levels and scores, across different devices.  
-- **Ads**: To display ads.  
+- **Ads**: To display personalised ads.  
 - **Account Management**: You can edit your name or delete your account at any time.
 
 ### 3. Data Storage and Security  
@@ -80,7 +80,7 @@ We store your data securely using Firebase, ensuring that your progress is saved
 We use third-party services to improve the game experience:
 
 - **Firebase** (to store account information and scores). [Firebase Privacy Policy](https://firebase.google.com/support/privacy)  
-- **Google AdMob** (to display ads). [Google AdMob Privacy Policy](https://policies.google.com/privacy)
+- **Unity Ads** (to display ads). [Unity Ads Privacy Policy](https://unity.com/legal/privacy-policy)
 
 These services may collect certain data as part of their operations.
 
@@ -98,7 +98,7 @@ If you need help with your data or account deletion, you can also contact us by 
 Our game is designed for children, teens, and adults. If you are a parent and believe your child has provided personal data without your consent, please contact us to remove it.
 
 ### 7. Privacy Policy Updates  
-We may update this Privacy Policy to reflect changes in our game and data practices. You will be notified of any updates through the Privacy Policy screen inside the game and on GitHub.
+We may update this Privacy Policy to reflect changes in our game and data practices. You will be notified of any updates through the Privacy Policy screen inside the game.
 
 ### 8. Contact Us  
 If you have any questions or requests regarding your data, contact us at:  
